@@ -13,46 +13,6 @@ I'm a **Backend-oriented Developer** passionate about building robust, scalable,
 
 ## 🛠️ Tech Stack
 
-### 💡 Languages
-
-* Java ☕
-* Python 🐍
-* C
-
-### ⚙️ Backend
-
-* Spring Boot
-* JHipster
-* REST APIs
-* JWT Authentication
-
-### 🗄️ Databases
-
-* PostgreSQL
-* MySQL
-
-### 🧰 DevOps & Tools
-
-* Docker & Docker Compose
-* Jenkins
-* SonarQube
-* Git & GitHub
-
-# 👋 Hi, I'm Yassin
-
-## 🚀 About Me
-
-I'm a **Backend-oriented Developer** passionate about building robust, scalable, and clean applications. I enjoy working with modern backend technologies and exploring DevOps practices.
-
-* 🎓 Student in computer/engineering-related studies
-* 💻 Mainly focused on **Backend Development**
-* 🔧 Interested in **Microservices, APIs, and CI/CD**
-* 📈 Always learning and improving
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
 </p>
@@ -76,8 +36,10 @@ I'm a **Backend-oriented Developer** passionate about building robust, scalable,
 
 ### 🗄️ Databases
 
-* PostgreSQL
-* MySQL
+<p align="left">
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
 
 ### 🧰 DevOps & Tools
 
@@ -91,8 +53,12 @@ I'm a **Backend-oriented Developer** passionate about building robust, scalable,
 
 ### 🌐 Frontend (basic)
 
-* React
-* HTML / CSS / JavaScript
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
 ---
 
