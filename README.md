@@ -66,9 +66,7 @@ I'm a **Backend-oriented Developer** passionate about building robust, scalable,
 
 ## 📫 Contact
 
-* GitHub: **@yassinbou12**
 * LinkedIn: **[Yassin Bouougrou](https://www.linkedin.com/in/yassin-bouougrou-42217a344/)**
-* 
 
 ---
 
